@@ -1,0 +1,4 @@
+1) Create class Employee and 2: sub classes : Developer and Recruiter implements equals(), hashCode(), and compareTo() for all classes.
+2) Create 5 objects of each classes and add to HashSet, LinkedHashSet,TreeSet
+3) Create Class creator for Developer and Recruiter , user input data for this classes from console;
+
