@@ -1,4 +1,4 @@
 /.idea/
 /lits-java-base.iml
 /production/
-*.iml
+**/*.iml
