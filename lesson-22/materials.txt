@@ -1,0 +1,4 @@
+https://www.baeldung.com/java-fork-join
+https://habr.com/ru/post/128985/
+https://www.javaworld.com/article/2078440/java-tip-when-to-use-forkjoinpool-vs-executorservice.html
+https://dzone.com/articles/think-twice-using-java-8

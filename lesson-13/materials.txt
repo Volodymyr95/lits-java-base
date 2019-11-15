@@ -1,0 +1,2 @@
+https://www.vojtechruzicka.com/avoid-utility-classes/
+https://stackoverflow.com/questions/25223553/how-can-i-create-an-utility-class

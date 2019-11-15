@@ -1,0 +1,4 @@
+https://www.baeldung.com/java-8-date-time-intro
+https://habr.com/ru/post/274811/
+https://habr.com/ru/post/274905/
+https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html

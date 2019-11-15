@@ -1,0 +1,6 @@
+https://habr.com/ru/post/128017/
+https://habr.com/ru/post/421179/
+https://habr.com/ru/post/129037/
+https://www.baeldung.com/java-treemap
+https://stackoverflow.com/questions/20487619/complexity-of-treemap-insertion-vs-hashmap-insertion
+https://www.tutorialspoint.com/Difference-between-TreeMap-HashMap-and-LinkedHashMap-in-Java

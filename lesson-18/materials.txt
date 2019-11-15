@@ -1,0 +1,8 @@
+https://www.javacodegeeks.com/2015/03/java-8-lambda-expressions-tutorial.html?fbclid=IwAR0cekfUIAXNXAFdsMLIn-UZ2aKVvlFhJh6hOAf-9JhFBol-tZZqAZ9T65s
+https://habr.com/ru/post/337350/
+https://annimon.com/article/2778
+https://www.youtube.com/watch?v=plZYp2fLUVY&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH&index=166&t=0s
+https://www.youtube.com/watch?v=pPy-ETY8a-E&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH&index=174&t=0s
+https://www.youtube.com/watch?v=HSk5fdKbd3o&index=6&t=0s&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+https://www.youtube.com/watch?v=p6cZO5V2ehw&index=79&t=0s&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+https://www.youtube.com/watch?v=0if71HOyVjY
