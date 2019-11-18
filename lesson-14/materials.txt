@@ -5,6 +5,7 @@ https://habr.com/ru/post/84184/
 https://habr.com/ru/post/337558/
 https://habr.com/ru/post/262943/
 https://habr.com/ru/post/233797/
+https://www.baeldung.com/java-init-list-one-line?fbclid=IwAR2uKkZAP8Zr8VaTPzZKx1eZiehqVoPE2VQmKLm1rfvxxzAtaQHWtppMS_o
 
 
 
