@@ -2,3 +2,4 @@ https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 https://www.guru99.com/maven-tutorial.html
 https://proglib.io/p/chto-takoe-maven-i-gde-on-obitaet-2019-11-18
 https://www.jetbrains.com/help/idea/maven-support.html
+https://core.telegram.org/bots/samples
