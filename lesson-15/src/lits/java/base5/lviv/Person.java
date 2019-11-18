@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Person implements Comparable<Person> {
 
     private String name;
-    private int age;
+    private Integer age;
 
     public Person(String name) {
         this.name = name;
@@ -44,6 +44,6 @@ public class Person implements Comparable<Person> {
 
     @Override
     public int compareTo(Person o) {
-        return this.name.compareTo(o.name);
+        return this.age.compareTo(o.age);
     }
 }
