@@ -1,1 +1,4 @@
 https://dzone.com/articles/why-do-we-need-an-interface-in-oop
+
+https://razborpoletov.com/2016/09/episode-116.html
+https://razborpoletov.com/2017/03/episode-129.html
