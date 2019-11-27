@@ -2,3 +2,4 @@
 /lits-java-base.iml
 /production/
 **/*.iml
+.DS_Store
