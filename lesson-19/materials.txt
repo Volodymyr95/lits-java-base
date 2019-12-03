@@ -1,2 +1,5 @@
 http://tutorials.jenkov.com/java-io/index.html
 https://habr.com/ru/post/235585/
+https://examples.javacodegeeks.com/core-java/nio/java-nio-tutorial-beginners/
+https://examples.javacodegeeks.com/core-java/nio/java-nio-socketchannel-example/
+https://docs.oracle.com/javase/tutorial/essential/io/notification.html

@@ -1,3 +1,4 @@
+
 package com.lits.oop.lesson19;
 
 import java.io.*;
@@ -127,6 +128,5 @@ public class Main {
 //        in.close();
         Path path =  Paths.get("/Users/volodymyrrachuk/Desktop/fileOutputStream.txt");
         System.out.println(path.getFileName());
-        Files.
     }
 }
